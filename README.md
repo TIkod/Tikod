@@ -3,6 +3,7 @@
   <li>Next JS</li>
   <li>React Native</li>
   <li>React</li>
+  <li>Angular</li>
   <li>Nest JS</li>
   <li>Express</li>
   <li>Node</li>
