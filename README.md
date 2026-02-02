@@ -18,3 +18,8 @@
   <li>Aiogram</li>
   <li>Pytelegrambotapi</li>
 </ul>
+<ul>
+  <li>Selenium</li>
+  <li>BeautifulSoup</li>
+  <li>Playwright</li>
+</ul>
