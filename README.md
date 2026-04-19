@@ -8,8 +8,10 @@
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║          Turning ideas into scalable products            ║
-║              since the first line of code                ║
+║                                                          ║
+║    I don't just write code —                             ║
+║    I build secure, optimized and scalable solutions.     ║
+║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -26,7 +28,7 @@
 ## ⬡ &nbsp;About
 
 > CEO at **TICode** · Developer at **Gsocks, Inc.**
-> Based in **Dnipro, Ukraine** · Building things that scale
+> Based in **Dnipro, Ukraine** 
 
 I design and ship full-stack products — from architecture to deployment.
 Clean code, thoughtful UX, and systems that survive the real world.
@@ -116,37 +118,6 @@ Playwright       ██████████░░░░░░░░  Interme
 
 ---
 
-## ⬡ &nbsp;GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Tikod&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c8a96e&icon_color=c8a96e&text_color=8892b0&ring_color=c8a96e" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tikod&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c8a96e&text_color=8892b0&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tikod&theme=github-dark-blue&hide_border=true&background=0d1117&ring=c8a96e&fire=c8a96e&currStreakLabel=c8a96e&sideLabels=8892b0&dates=8892b0&sideNums=c8a96e&currStreakNum=ffffff" />
-
-</div>
-
-<br/>
-
----
-
-## ⬡ &nbsp;Activity
-
-<div align="center">
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tikod&theme=github-compact&bg_color=0d1117&color=c8a96e&line=c8a96e&point=ffffff&hide_border=true&area=true&area_color=c8a96e" />
-
-</div>
-
-<br/>
-
----
 
 <div align="center">
 
